@@ -8,6 +8,40 @@ A decentralized exchange with accurate live liquidation features stop-loss sets 
 
 Run project from directory
 
+#### Heroku Link: https://dashboard.heroku.com/apps
+
+1.) Heroku Install CLI
+$ heroku login
+
+#### Create a new Git repository
+Intialize a git repository in a new or exsisting directory
+
+```$ Cd my-proect/```
+```$ git init```
+```$ heroku git:remote -a Dapp-token-exchange```
+
+#### Deploy your application 
+Commit your code to the repository and deploy it to heroku using Git.
+
+```$ git add .```
+```$ git commit -am "Send test"```
+```$ git push heroku master```
+
+Heroku Git URL: https://git.heroku.com/Your-app-name-here.git 
+
+
+Heroku CLI Install
+# Mac OS
+$ brew top heroku/brew && brew install heroku
+
+# Ubuntu +16
+$ Sudo snap install --classic heroku
+
+# Windows 
+32bit installer: https://devcenter.heroku.com/articles/heroku-cli
+64bit installer: https://devcenter.heroku.com/articles/heroku-cli
+
+
 ** UPDATE: If you're having trouble deploying to Heroku, then use this
 
 #### Surge Link:  https://surge.sh/
@@ -16,8 +50,6 @@ Run project from directory
 ```run: cd build```
 ```run: npm i -g surge```
 ```run: surge```
-
-#### Heroku Link: https://dashboard.heroku.com/apps
 
 The update specifies the Node.js version in the package.json file so that Heroku builds your app correctly.
 
