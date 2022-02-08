@@ -4,6 +4,14 @@ A decentralized exchange with accurate live liquidation features stop-loss sets 
 
 
 
+![Capstone 2](https://user-images.githubusercontent.com/59753390/153061842-22aae074-c6c6-40f9-8edf-6811f2ba850d.gif)
+
+
+![Capstone Project 1 GIF](https://user-images.githubusercontent.com/59753390/153061903-9bd711f3-076e-4e5f-81d4-074f0ed01416.gif)
+
+
+
+
 ![Dapp Excahnge 1](https://user-images.githubusercontent.com/59753390/152915289-a6d14cc3-1115-403e-b4e3-0084ec54046b.png)
 
 Run project from directory
