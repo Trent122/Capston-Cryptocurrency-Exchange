@@ -50,7 +50,7 @@ $ Sudo snap install --classic heroku
 64bit installer: https://devcenter.heroku.com/articles/heroku-cli
 
 
-** UPDATE: If you're having trouble deploying to Heroku, then use this
+** UPDATE: If you're having trouble deploying to Heroku, then use this:
 
 #### Surge Link:  https://surge.sh/
 
